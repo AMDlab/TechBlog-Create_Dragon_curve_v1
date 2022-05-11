@@ -12,5 +12,5 @@
 
 ## LICENSE
 
-The source code is licensed MIT. Copyright© 2022, AMD lab & saito40
+The source code is licensed MIT. Copyright© 2022, AMD lab & Saito40
 
